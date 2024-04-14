@@ -31,7 +31,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-center w-full h-screen bg-cover bg-center max-w-4xl" style={{ backgroundImage: "url('/images/photo1.jpg')" }}>
           <h2 className="text-center mb-4 text-rose-950">Mon CV téléchargeable ici</h2>
           <a href="/images/CV_sebastien_koenig.pdf" download className="mb-8">
-            <img src="/images/logo/cv.png" alt="cv téléchargeable" width={300} height={500} />
+            <Image src="/images/logo/cv.png" alt="cv téléchargeable" width={300} height={500} />
           </a>
         </div>
 
@@ -43,35 +43,35 @@ export default function Home() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8 mb-8 mr-5 ml-5">
             <div className=" shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/github.png" alt="Photo 1" className="w-full" />
+              <Image src="/images/logo/github.png" alt="Photo 1" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">Plateforme essentielle pour le développement collaboratif et la gestion de versions.</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/html5.png" alt="Photo 2" className="w-full" />
+              <Image src="/images/logo/html5.png" alt="Photo 2" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">HTML structure le contenu web, utilisant des balises pour définir la hiérarchie des éléments.</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/javascript.png" alt="Photo 3" className="w-full" />
+              <Image src="/images/logo/javascript.png" alt="Photo 3" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">JavaScript dynamise les pages web, offrant des fonctionnalités interactives et améliorant l’expérience utilisateur.</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/php.png" alt="Photo 4" className="w-full" />
+              <Image src="/images/logo/php.png" alt="Photo 4" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">PHP est un langage de script côté serveur populaire pour le développement web dynamique.</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/react.png" alt="Photo 4" className="w-full" />
+              <Image src="/images/logo/react.png" alt="Photo 4" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">JavaScript dynamise les pages web, offrant des fonctionnalités interactives et améliorant l’expérience utilisateur.</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/symfony.png" alt="Photo 4" className="w-full" />
+              <Image src="/images/logo/symfony.png" alt="Photo 4" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">Symfony, un framework PHP, simplifie le développement web grâce à une architecture modulaire et robuste</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/uikit.png" alt="Photo 4" className="w-full" />
+              <Image src="/images/logo/uikit.png" alt="Photo 4" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2 ">framework front-end léger et modulaire pour le développement d'interfaces. Une collection complète de composants</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
-              <img src="/images/logo/wordpress.png" alt="Photo 4" className="w-full" />
+              <Image src="/images/logo/wordpress.png" alt="Photo 4" className="w-full" />
               <p className="text-center mt-5 m-2 border-t-2  ">WordPress facilite la création de sites web avec sa plateforme conviviale et ses fonctionnalités étendues pour la gestion de contenu.</p>
             </div>
           </div>

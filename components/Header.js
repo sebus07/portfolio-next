@@ -13,7 +13,7 @@ function Header() {
         <section className="flex justify-center bg-[url('/images/photo3.jpg')]	shadow-2xl bg-pink-50">
             <div className="header ">
                 <div className="uk-navbar-item uk-logo flex justify-center items-center flex-col">
-                    <img src="/images/logo/KOENIG.png" alt="Description" className="uk-align-center uk-margin-large-top" />
+                    <Image src="/images/logo/KOENIG.png" alt="Description" className="uk-align-center uk-margin-large-top" />
                     <Menubar className="w-64 flex justify-center items-center">
                     <MenubarMenu>
                         <MenubarTrigger className="">menu</MenubarTrigger>
