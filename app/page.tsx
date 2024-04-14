@@ -23,10 +23,11 @@ export default function Home() {
             <AvatarFallback>CN</AvatarFallback>
           </Avatar>
 
-          <p className=" rounded-lg p-5 text-center">  Je suis une personne dynamique, axée sur les résultats, prête à relever de nouveaux défis.
-            J’ai une excellente aptitude à la communication avec les clients et à établir des relations de confiance.
-            Je suis à l’aise aussi bien en travaillant de manière autonome qu’en équipe, et je suis constamment motivé à atteindre les objectifs fixés.
+          <p className="rounded-lg p-5 text-center">Je suis une personne dynamique, axée sur les résultats, prête à relever de nouveaux défis.
+            J&apos;ai une excellente aptitude à la communication avec les clients et à établir des relations de confiance.
+            Je suis à l&apos;aise aussi bien en travaillant de manière autonome qu&apos;en équipe, et je suis constamment motivé à atteindre les objectifs fixés.
           </p>
+
         </div>
         <div className="flex flex-col items-center justify-center w-full h-screen bg-cover bg-center max-w-4xl" style={{ backgroundImage: "url('/images/photo1.jpg')" }}>
           <h2 className="text-center mb-4 text-rose-950">Mon CV téléchargeable ici</h2>
@@ -68,7 +69,7 @@ export default function Home() {
             </div>
             <div className="shadow-2xl border-4 border-black-500">
               <Image src="/images/logo/uikit.png" alt="Photo 4" className="w-full" />
-              <p className="text-center mt-5 m-2 border-t-2 ">framework front-end léger et modulaire pour le développement d'interfaces. Une collection complète de composants</p>
+              <p className="text-center mt-5 m-2 border-t-2 ">framework front-end léger et modulaire pour le développement d&apos;interfaces. Une collection complète de composants</p>
             </div>
             <div className="shadow-2xl border-4 border-black-500">
               <Image src="/images/logo/wordpress.png" alt="Photo 4" className="w-full" />
@@ -89,7 +90,7 @@ export default function Home() {
               <AccordionItem value="item-2">
                 <AccordionTrigger>Quel est votre parcours professionnel ?</AccordionTrigger>
                 <AccordionContent>
-                  J'ai eu une variété d'emplois, y compris être à mon compte à plusieurs reprises, notamment dans le domaine de la pâtisserie et du commerce en ligne de produits culturels et informatiques. J'ai également travaillé comme chauffeur-livreur, concierge dans la fonction publique, magasinier-cariste et distributeur de journaux.
+                  J&apos;ai eu une variété d&apos;emplois, y compris être à mon compte à plusieurs reprises, notamment dans le domaine de la pâtisserie et du commerce en ligne de produits culturels et informatiques. J&apos;ai également travaillé comme chauffeur-livreur, concierge dans la fonction publique, magasinier-cariste et distributeur de journaux.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
@@ -97,7 +98,7 @@ export default function Home() {
               <AccordionItem value="item-3">
                 <AccordionTrigger>Quelle est votre nouvelle orientation professionnelle ?</AccordionTrigger>
                 <AccordionContent>
-                  Je suis en reconversion dans le développement. J'ai suivi une formation en PHP Symfony et je suis actuellement chez OpenClassrooms pour une formation de 9 mois en développement web et WordPress avancé.
+                  Je suis en reconversion dans le développement. J&apos;ai suivi une formation en PHP Symfony et je suis actuellement chez OpenClassrooms pour une formation de 9 mois en développement web et WordPress avancé.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>      <Accordion type="single" collapsible>
@@ -111,37 +112,37 @@ export default function Home() {
               <AccordionItem value="item-5">
                 <AccordionTrigger>Quel est votre objectif académique ?</AccordionTrigger>
                 <AccordionContent>
-                  J'aspire à obtenir un diplôme de niveau V en développement web.
+                  J&apos;aspire à obtenir un diplôme de niveau V en développement web.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>      <Accordion type="single" collapsible>
               <AccordionItem value="item-6">
                 <AccordionTrigger>Quelles sont vos aspirations professionnelles à long terme ?</AccordionTrigger>
                 <AccordionContent>
-                  À long terme, j'aimerais travailler dans une entreprise innovante où je pourrais contribuer à des projets significatifs et continuer à développer mes compétences.
+                  À long terme, j&apos;aimerais travailler dans une entreprise innovante où je pourrais contribuer à des projets significatifs et continuer à développer mes compétences.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>      <Accordion type="single" collapsible>
               <AccordionItem value="item-7">
                 <AccordionTrigger>Comment avez-vous trouvé votre transition vers le développement web ?</AccordionTrigger>
                 <AccordionContent>
-                  La transition a été passionnante et enrichissante. J'apprécie particulièrement la créativité et les défis que cela implique.
+                  La transition a été passionnante et enrichissante. J&apos;apprécie particulièrement la créativité et les défis que cela implique.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
             <Accordion type="single" collapsible>
               <AccordionItem value="item-8">
-                <AccordionTrigger>Quels sont vos domaines d'intérêt dans le développement web ?</AccordionTrigger>
+                <AccordionTrigger>Quels sont vos domaines d&apos;intérêt dans le développement web ?</AccordionTrigger>
                 <AccordionContent>
-                  J'ai un intérêt particulier pour la conception d'interfaces utilisateur conviviales et l'optimisation des performances des sites web.
+                  J&apos;ai un intérêt particulier pour la conception d&apos;interfaces utilisateur conviviales et l&apos;optimisation des performances des sites web.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
             <Accordion type="single" collapsible>
               <AccordionItem value="item-9">
-                <AccordionTrigger>Qu'est-ce qui vous motive dans le développement web ?</AccordionTrigger>
+                <AccordionTrigger>Qu&apos;est-ce qui vous motive dans le développement web ?</AccordionTrigger>
                 <AccordionContent>
-                  Ce qui me motive, c'est la possibilité de créer des produits numériques qui apportent de la valeur aux utilisateurs et qui contribuent à rendre le web plus accessible et plus convivial.
+                  Ce qui me motive, c&apos;est la possibilité de créer des produits numériques qui apportent de la valeur aux utilisateurs et qui contribuent à rendre le web plus accessible et plus convivial.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
@@ -149,7 +150,7 @@ export default function Home() {
               <AccordionItem value="item-10">
                 <AccordionTrigger>Comment voyez-vous votre évolution dans le domaine du développement web ?</AccordionTrigger>
                 <AccordionContent>
-                  Je suis confiant dans ma capacité à continuer à apprendre et à m'adapter aux évolutions rapides de l'industrie du développement web. Je suis déterminé à rester à jour avec les nouvelles technologies et à continuer à perfectionner mes compétences.
+                  Je suis confiant dans ma capacité à continuer à apprendre et à m&apos;adapter aux évolutions rapides de l&apos;industrie du développement web. Je suis déterminé à rester à jour avec les nouvelles technologies et à continuer à perfectionner mes compétences.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>

@@ -23,7 +23,7 @@ const portfolio = () => {
       <div className='max-w-7xl mx-auto m-8 mb-8'>
         <div className="flex flex-col items-center justify-center shadow-xl bg-pink-50 m-8">
           <h3 className="text-3xl text-rose-950 pt-4">Projets WordPress</h3>
-          <p className="text-2xl text-rose-950 mt-6 mb-8 text-center">Vous pouvez ouvrir chaque site en cliquant dessus. Tous les sites ont été créés sous WordPress avec du code personnalisé et non seulement à l'aide de WordPress</p>
+          <p className="text-2xl text-rose-950 mt-6 mb-8 text-center">Vous pouvez ouvrir chaque site en cliquant dessus. Tous les sites ont été créés sous WordPress avec du code personnalisé et non seulement à l&apos;aide de WordPress</p>
 
           <Carousel className="m-8">
             <CarouselContent>

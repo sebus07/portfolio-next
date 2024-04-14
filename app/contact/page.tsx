@@ -12,7 +12,7 @@ const ProfileForm = () => {
                     <div className="space-y-12 bg-gray-500 p-5  mr-8 ml-8">
                         <div className="border-b border-gray-900/10 pb-12">
                             <h2 className="text-base font-semibold leading-7 text-gray-900">Profile</h2>
-                            <p className="mt-1 text-sm leading-6 text-gray-800">Vous pouvez m'envoyer un message pour toute question ou demande d'information.</p>
+                            <p className="mt-1 text-sm leading-6 text-gray-800">Vous pouvez m&apos;envoyer un message pour toute question ou demande d&apos;information.</p>
 
                             <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
                                 <div className="sm:col-span-3">
