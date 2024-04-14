@@ -23,11 +23,11 @@ function Header() {
                             </MenubarItem>
                             <MenubarSeparator />
                             <MenubarItem>
-                                <a href="/contact">Contact</a>
+                                <a href="/portfolio">Portfolio</a>
                             </MenubarItem>
                             <MenubarSeparator />
                             <MenubarItem>
-                                <a href="/portfolio">Portfolio</a>
+                                <a href="/contact">Contact</a>
                             </MenubarItem>
                         </MenubarContent>
                     </MenubarMenu>
